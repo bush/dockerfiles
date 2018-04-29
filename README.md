@@ -1,2 +1,2 @@
 # dockerfiles
-A place for containerized apps
+A place for containerized apps.
