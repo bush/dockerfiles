@@ -1,2 +1,2 @@
 #!/bin/bash
-docker run --rm -it -v /home/dave/geth:/root ethereum/client-go $@ 
+docker run --rm -it -v /home/dave/stuff/geth:/root ethereum/client-go $@ 
